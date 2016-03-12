@@ -1,7 +1,7 @@
 # AquosControl_for_RaspberryPI2
-This module is control AquosTV with flic.
+This is python module to control AquosTV with flic.
 
 ## HOW TO USE
-Edit HOST,PORT and COMMANDs in aquost.py
-Edit FLIC_PATH in startAquos.py
-Run startAquost.py
+1. Edit HOST,PORT and COMMANDs in aquost.py.
+2. Edit FLIC_PATH in startAquos.py.
+3. Run startAquost.py.
